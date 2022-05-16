@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farmJun)](https://github.com/farmJun/github-readme-stats)
 <br>
 
-<h3 align:"center"> 💻 TECH STACK 💻</a><br>
+<h3 style="align:center"> 💻 TECH STACK 💻</a><br>
 <p align:"center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
