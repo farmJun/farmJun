@@ -2,7 +2,7 @@
 [![farmJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=farmJun)](https://github.com/farmJun/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farmJun)](https://github.com/farmJun/github-readme-stats)
 <br>
-
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <h3  align: "center"> 💻 TECH STACK 💻</h3><br>
 <p align:"center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
