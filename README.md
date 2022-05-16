@@ -2,6 +2,8 @@
 [![farmJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=farmJun)](https://github.com/farmJun/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farmJun)](https://github.com/farmJun/github-readme-stats)
 <br>
+
+<a syle="text-align:center"> 💻 TECH STACK 💻</a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=E34F26&logoColor=white"/> 
