@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=87FA72&height=100&section=header&text=🍎🍀🌷🌿박준영의%20사이버%20텃밭🌺🌱🌾🌳&fontSize=48&fontColor=FBFCFC&animation=fadeIn)
 <br>
 
-<p align="center">
+<div align="center">
  ![farmJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=farmJun&theme=default&show_icons=true)
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farmJun&layout=default)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</div>
 <br>
 
 <h3 align="center"><b> 🛠 Tech Stack 🛠</b></h3>
