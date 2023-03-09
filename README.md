@@ -3,8 +3,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farmJun)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farmJun)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 <h3 align="center"><b> 🛠 Tech Stack 🛠</b></h3>
 <p align="center">
