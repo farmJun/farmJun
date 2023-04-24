@@ -1,13 +1,48 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=87FA72&height=100&section=header&text=🍎🍀🌷🌿박준영의%20사이버%20텃밭🌺🌱🌾🌳&fontSize=48&fontColor=FBFCFC&animation=fadeIn)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=00C73C&height=100&section=header&text=🍎🍀🌷🌿%20박준영의%20사이버%20텃밭%20🌺🌱🌾🌳&fontSize=48&fontColor=FBFCFC&animation=fadeIn&align="center")
+</div>
+
+### 👨🏻‍💻 Profile
++ 🏫 Inha University Dept. of Computer Science & Engineering (2019.03 ~ )
++ 🪖 Served and discharged from ROK Army as Sergeant ( 2020.03 ~ 2021.09 )
+
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farmJun)](https://github.com/anuraghazra/github-readme-stats)
+### ⚽️ Activity
++ Server-Spring Part Challenger of 3rd University MakeUs Challenge( 2022.09 ~ 2023.02 )
++ Object-Oriented Programming(OOP) Study Group Leader of LANDVIBE, Inha University ( 2023.02 ~ )
 
 <br>
-<h3 align="center"><b> 🛠 Tech Stack 🛠</b></h3>
-<p align="center">
 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>   
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaSript&logoColor=white"/> 
-</p>
+### 💻 Back-End
++ Currently, focusing on studying back-end develop using Spring
++ Server Lead Developer of LGHTSG, [라고할때살걸 - 한 눈에 알아보는 가격 정보(Github)](https://github.com/orgs/LGHTSG/repositories)
++ ![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=OpenJDK)
+![Spring](https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJIDEA)
+
+
+<br>
+
+###  ✏️ Problem Solving
++ ![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
++ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wns3887)](https://solved.ac/wns3887/)
+
+<br>
+
+### ⚙️ Other Tech Stacks
++ Front-End - ![html5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white)
+![css3](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)
+
++ VCS - ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
+### 📞 Contact ( click the badge )
++ [![Tistory Blog](https://img.shields.io/badge/Tistory%20Blog-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://codegarden-farmjun.tistory.com/)](https://codegarden-farmjun.tistory.com/) [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/farm_june)
++ [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junpreme1205@gmail.com) [![Naver](https://img.shields.io/badge/Naver-000000?style=for-the-badge&logo=Naver&logoColor=white)](mailto:wnsdud6969@naver.com)
