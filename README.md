@@ -11,6 +11,7 @@
 
 ### ⚽️ Activity
 + Server-Spring Part Challenger of 3rd University MakeUs Challenge( 2022.09 ~ 2023.02 )
++ Object-Oriented Programming(OOP) Study Group Leader of LANDVIBE, Inha University ( 2023.02 ~ )
 
 <br>
 
