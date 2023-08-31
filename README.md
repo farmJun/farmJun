@@ -1,9 +1,6 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=rounded&color=00C73C&height=100&section=header&text=🍎🍀🌷🌿%20박준영의%20사이버%20텃밭%20🌺🌱🌾🌳&fontSize=48&fontColor=FBFCFC&animation=fadeIn&align="center")
-</div>
 
 ### 👨🏻‍💻 Profile
++ 👋 Hello! My name is Junyeong Park!
 + 🏫 Inha University Dept. of Computer Science & Engineering (2019.03 ~ )
 + 🪖 Served and discharged from ROK Army as Sergeant ( 2020.03 ~ 2021.09 )
 
