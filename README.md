@@ -24,21 +24,6 @@
 
 <br>
 
-###  ✏️ Problem Solving
-+ ![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wns3887)](https://solved.ac/wns3887/)
-
-<br>
-
-### ⚙️ Other Tech Stacks
-+ Front-End - ![html5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white)
-![css3](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)
-
-+ VCS - ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 <br>
 
 ### 📞 Contact ( click the badge )
