@@ -10,6 +10,7 @@
 + Server-Spring Part Challenger of 3rd University MakeUs Challenge ( 2022.09 ~ 2023.02 )
 + Object-Oriented Programming(OOP) Study Group Leader of LANDVIBE, Inha University ( 2023.02 ~ 2023.12 )
 + Completion of SAMSUNG SDS Algorithm (2023.07 ~ 2023.08 )
++ Server-Spring Part Leader of 6th University MakeUs Challenge ( 2024.02 ~ ing )
 
 <br>
 
