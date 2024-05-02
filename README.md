@@ -1,7 +1,7 @@
 
 ### 👨🏻‍💻 Profile
 + 👋 Hello! My name is Junyeong Park!
-+ 🏫 Inha University Dept. of Computer Science & Engineering (2019.03 ~ )
++ 🏫 Inha University Dept. of Computer Science & Engineering (2019.03 ~ ing, Currently on leave of absence)
 + 🪖 Served and discharged from ROK Army as Sergeant ( 2020.03 ~ 2021.09 )
 
 <br>
@@ -11,6 +11,12 @@
 + Object-Oriented Programming(OOP) Study Group Leader of LANDVIBE, Inha University ( 2023.02 ~ 2023.12 )
 + Completion of SAMSUNG SDS Algorithm (2023.07 ~ 2023.08 )
 + Server-Spring Part Leader of 6th University MakeUs Challenge ( 2024.02 ~ ing )
++ Data Structure Study Group Mentor of LANDVIBE, Inha University ( 2024.03 ~ ing )
+
+<br>
+
+### 💼 Career
++ Backend Developer of [FODI](https://www.fodi.pro/) ( 2024.03 ~ ing )
 
 <br>
 
