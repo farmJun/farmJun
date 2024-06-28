@@ -15,11 +15,6 @@
 
 <br>
 
-### 💼 Career
-+ Backend Developer of [FODI](https://www.fodi.pro/) ( 2024.03 ~ ing )
-
-<br>
-
 ### 💻 Back-End
 + Currently, focusing on studying back-end develop using Spring
 + Server Lead Developer of LGHTSG, [라고할때살걸 - 한 눈에 알아보는 가격 정보(Github)](https://github.com/orgs/LGHTSG/repositories)
