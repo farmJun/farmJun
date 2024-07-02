@@ -17,7 +17,6 @@
 
 ### 💻 Back-End
 + Currently, focusing on studying back-end develop using Spring
-+ Server Lead Developer of LGHTSG, [라고할때살걸 - 한 눈에 알아보는 가격 정보(Github)](https://github.com/orgs/LGHTSG/repositories)
 + ![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=OpenJDK)
 ![Spring](https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
