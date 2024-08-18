@@ -1,7 +1,7 @@
 
 ### 👨🏻‍💻 Profile
 + 👋 Hello! My name is Junyeong Park!
-+ 🏫 Inha University Dept. of Computer Science & Engineering (2019.03 ~ ing, Currently on leave of absence)
++ 🏫 Inha University Dept. of Computer Science & Engineering (2019.03 ~ ing)
 + 🪖 Served and discharged from ROK Army as Sergeant ( 2020.03 ~ 2021.09 )
 
 <br>
@@ -10,8 +10,9 @@
 + Server-Spring Part Challenger of 3rd University MakeUs Challenge ( 2022.09 ~ 2023.02 )
 + Object-Oriented Programming(OOP) Study Group Leader of LANDVIBE, Inha University ( 2023.02 ~ 2023.12 )
 + Completion of SAMSUNG SDS Algorithm (2023.07 ~ 2023.08 )
-+ Server-Spring Part Leader of 6th University MakeUs Challenge ( 2024.02 ~ ing )
-+ Data Structure Study Group Mentor of LANDVIBE, Inha University ( 2024.03 ~ ing )
++ Data Structure Study Group Mentor of LANDVIBE, Inha University ( 2024.03 ~ 2024.06 )
++ Server-Spring Part Leader of 6th University MakeUs Challenge ( 2024.02 ~ 2024.08 )
++ Leader of 7th University MakeUs Challenge ( 2024.08 ~ ing )
 
 <br>
 
