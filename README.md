@@ -7,12 +7,20 @@
 <br>
 
 ### ⚽️ Activity
-+ Server-Spring Part Challenger of 3rd University MakeUs Challenge ( 2022.09 ~ 2023.02 )
+#### 2025
++ Vice Leader of 8th University MakeUs Challenge ( 2025.02 ~ ing )
++ Data Structure Study Group Mentor of LANDVIBE, Inha University ( 2025.03 ~ ing )
+
+#### 2024
++ Server-Spring Part Leader of 6th University MakeUs Challenge ( 2024.02 ~ 2024.08 )
++ Data Structure Study Group Mentor of LANDVIBE, Inha University ( 2024.03 ~ 2024.06 )
+
+
+#### 2023
 + Object-Oriented Programming(OOP) Study Group Leader of LANDVIBE, Inha University ( 2023.02 ~ 2023.12 )
 + Completion of SAMSUNG SDS Algorithm (2023.07 ~ 2023.08 )
-+ Data Structure Study Group Mentor of LANDVIBE, Inha University ( 2024.03 ~ 2024.06 )
-+ Server-Spring Part Leader of 6th University MakeUs Challenge ( 2024.02 ~ 2024.08 )
-+ Leader of 7th University MakeUs Challenge ( 2024.08 ~ ing )
++ Server-Spring Part Challenger of 3rd University MakeUs Challenge ( 2022.09 ~ 2023.02 )
+
 
 <br>
 
