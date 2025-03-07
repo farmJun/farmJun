@@ -12,6 +12,7 @@
 + Data Structure Study Group Mentor of LANDVIBE, Inha University ( 2025.03 ~ ing )
 
 #### 2024
++ Leader of 7th University MakeUs Challenge ( 2024.08 ~ 2025.02 )
 + Server-Spring Part Leader of 6th University MakeUs Challenge ( 2024.02 ~ 2024.08 )
 + Data Structure Study Group Mentor of LANDVIBE, Inha University ( 2024.03 ~ 2024.06 )
 
