@@ -29,5 +29,4 @@
 <br>
 
 ### 📞 Contact ( click the badge )
-+ [![Tistory Blog](https://img.shields.io/badge/Tistory%20Blog-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://codegarden-farmjun.tistory.com/)](https://codegarden-farmjun.tistory.com/)
 + [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junpreme1205@gmail.com) [![Naver](https://img.shields.io/badge/Naver-000000?style=for-the-badge&logo=Naver&logoColor=white)](mailto:wnsdud6969@naver.com)
